@@ -10,4 +10,8 @@ public void m1()
 {
 System.out.println("New Method get added in Test Class");	
 }
+public void m2()
+{
+System.out.println("Why so serious");	
+}
 }
